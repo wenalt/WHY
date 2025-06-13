@@ -1,0 +1,31 @@
+"""
+WHY - GitHub Testing Script
+
+This script is for experimenting with:
+- GitHub pull requests and workflow
+- GitHub Copilot's code suggestions
+- General Python scripting for repository testing
+
+Purpose:
+- Simulate a basic workflow for collaborative development.
+- Provide a base for testing GitHub Actions and Copilot suggestions.
+"""
+
+def test_pull_request():
+    print("Testing pull request functionality... Success!")
+
+def test_copilot_integration():
+    print("Testing Copilot integration... Success!")
+
+def test_general_experimentation():
+    print("General testing and experimentation... Success!")
+
+def main():
+    print("WHY Repository: GitHub Features Testing\n")
+    test_pull_request()
+    test_copilot_integration()
+    test_general_experimentation()
+    print("\nAll initial tests were successful.\nOngoing tests with new features...")
+
+if __name__ == "__main__":
+    main()
