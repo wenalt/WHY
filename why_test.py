@@ -22,7 +22,9 @@ def test_copilot_integration():
     assert result, "Copilot integration failed"
 
 def test_general_experimentation():
-    print("General testing and experimentation... Success!")
+    """Test general experimentation."""
+    result = True  # Replace with real test logic
+    assert result, "General experimentation failed"
 
 def main():
     print("WHY Repository: GitHub Features Testing\n")
