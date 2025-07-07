@@ -8,7 +8,7 @@ This script is for experimenting with:
 
 Purpose:
 - Simulate a basic workflow for collaborative development.
-- Provide a base for testing GitHub Actions and Copilot suggestions.
+- Provide a base for testing GitHub Actions.
 """
 
 def test_pull_request():
