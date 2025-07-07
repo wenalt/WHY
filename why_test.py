@@ -13,7 +13,7 @@ Purpose:
 
 import unittest2
 
-class TestWHY(unittest.TestCase):
+class TestWHY(unittest.TestCase2):
     def test_pull_request(self):
         # Simulate test logic here
         self.assertTrue(True, "Pull request functionality should succeed.")
