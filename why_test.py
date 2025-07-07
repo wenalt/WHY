@@ -1,5 +1,5 @@
 """
-WHY - GitHub Testing Script
+WHY - GitHub  Script
 
 This script is for experimenting with:
 - GitHub pull requests and workflow
