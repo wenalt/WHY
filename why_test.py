@@ -4,7 +4,7 @@ WHY - GitHub  Script
 This script is for experimenting with:
 - GitHub pull requests and workflow
 - GitHub Copilot's code suggestions
-- General Python scripting for repository testing
+- General Python scripting for repository 
 
 Purpose:
 - Simulate a basic workflow for collaborative development.
