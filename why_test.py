@@ -17,7 +17,7 @@ def test_pull_request():
     assert result, "Pull request functionality failed"
 
 def test_copilot_integration():
-    """Test Copilot integration."""
+    """Test Copilot integration - TST."""
     result = True  # Replace with real test logic
     assert result, "Copilot integration failed"
 
