@@ -1,11 +1,14 @@
 WHY
 This repository is used for testing GitHub features, including pull requests and Copilot integration.
 
-Purpose
-Experiment with GitHub pull requests and workflow.
-Test Copilot’s capabilities within a repository.
-General testing and experimentation.
-Notes
-Initial tests were successful.
-Pull request functionality works as expected.
-Ongoing tests with new features
+Purpose is to
+- Experiment with GitHub pull requests and workflow.
+- Test Copilot’s capabilities within a repository.
+- Do some General testing and experimentation.
+
+Notes :
+- Initial tests were successful.
+- Pull request functionality works as expected.
+- Ongoing tests with new features
+
+2025/07/07 : Formatting ok
