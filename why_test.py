@@ -11,7 +11,7 @@ Purpose:
 - Provide a base for testing GitHub Actions.
 """
 
-import unittest
+import unittest2
 
 class TestWHY(unittest.TestCase):
     def test_pull_request(self):
