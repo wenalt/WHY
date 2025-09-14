@@ -1,5 +1,5 @@
 """
-WHY - GitHub  Script
+WHY - GitHub PY Script
 
 This script is for experimenting with:
 - GitHub pull requests and workflow
@@ -9,6 +9,8 @@ This script is for experimenting with:
 Purpose:
 - Simulate a basic workflow for collaborative development.
 - Provide a base for testing GitHub Actions.
+
+CAUTION - EXPERIMENTAL ONLY. DO NOT USE IF YOU CANNOT VERIFY. DYOR. 
 """
 
 import unittest2
